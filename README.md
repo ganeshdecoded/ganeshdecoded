@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ganesh Dubey</h1>
-<h3 align="center">I'm an Android App Developer with a strong focus on creating high-quality, user-centered mobile applications. I enjoy exploring the latest technologies in AI, machine learning, augmented reality, and cloud development, always looking for new ways to push boundaries and deliver value. My experience includes building scalable, interactive applications in fields like fashion and tourism, with a knack for seamlessly integrating backend services and enhancing user experiences.</h3>
+<h3 align="center">I'm Full Stack Developer with a strong focus on creating high-quality, user-centered mobile applications. I enjoy exploring the latest technologies in AI, machine learning, augmented reality, and cloud development, always looking for new ways to push boundaries and deliver value. My experience includes building scalable, interactive applications in fields like fashion and tourism, with a knack for seamlessly integrating backend services and enhancing user experiences.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ganeshdecoded&label=Profile%20views&color=0e75b6&style=flat" alt="ganeshdecoded" /> </p>
 
