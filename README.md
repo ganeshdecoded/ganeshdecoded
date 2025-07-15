@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **ganeshdubey767@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1huIcJsL4EfxJ0biA7VsTyYTGPL106ze1/view?usp=sharing](https://drive.google.com/file/d/1huIcJsL4EfxJ0biA7VsTyYTGPL106ze1/view?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1Jo5qSzByXqJaYwrvk-NKOx4_mGoNjv8x/view?usp=sharing)
 
 - ⚡ Fun fact **I THINK I AM FUNNY**
 
