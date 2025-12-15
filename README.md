@@ -56,7 +56,7 @@
 ### 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ganeshdecoded&show_icons=true&theme=tokyonight&hide_border=true" height="180" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ganeshdecoded&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="180" alt="stats graph" />
   
   <img src="https://streak-stats.demolab.com/?user=ganeshdecoded&theme=tokyonight&hide_border=true" height="180" alt="streak graph" />
 </div>
@@ -65,14 +65,4 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ganeshdecoded&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="140" alt="languages graph" />
-</div>
-
----
-
-### 🏆 Trophies
-
-<div align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=ganeshdecoded&theme=radical&no-frame=true&margin-w=15&margin-h=15&column=7" alt="ganeshdecoded" />
-  </a>
 </div>
